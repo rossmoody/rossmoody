@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Ross
 
-A visual systems thinker that likes to understand how things work under the hood.
+A visual systems thinker that likes to understand how things work under the hood. Check out [rossmoody.com](https://rossmoody.com/) for a fun list of my side projects and favorite things.
 
 ## 🔭 I’m currently working on...
 
