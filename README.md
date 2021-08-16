@@ -5,7 +5,3 @@ A visual systems thinker that likes to understand how things work under the hood
 ## 🔭 I’m currently working on...
 
 My open source side project called [SVG Gobbler](https://github.com/rossmoody/svg-gobbler). It's a browser extension that finds vector content in the page and lets you download it or copy it to your clipboard for quick access during development and design.
-
-## 🌱 I’m currently learning...
-
-Software engineering in the September cohort of [Hack Reactor](https://www.hackreactor.com/). 
