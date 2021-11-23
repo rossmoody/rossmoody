@@ -8,4 +8,4 @@ My open source side project called [SVG Gobbler](https://github.com/rossmoody/sv
 
 ## 🎢 What's up next...
 
-I'm joining the team at Splunk as a Principal Design Technologist to help designers and developers work smarter.
+I'm helping the team at Splunk as a Principal Design Technologist to help designers and developers work smarter.
