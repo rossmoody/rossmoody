@@ -4,6 +4,8 @@ Check out [rossmoody.com](https://rossmoody.com/) for a fun list of my side proj
 
 ## 🔭 I’m currently working on...
 
+- [Pennyweight](https://pennyweight.app): A jewelry pricing engine that tracks the metal market.  
+
 My open-source side projects. 
 
 - [SVG Gobbler](https://github.com/rossmoody/svg-gobbler): A browser extension that finds vector content in the page and lets you download it or copy it to your clipboard for quick access during development and design.
